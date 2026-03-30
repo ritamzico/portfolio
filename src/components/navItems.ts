@@ -1,7 +1,7 @@
 import type { Component } from "vue";
 
 import Experience from "./Experience.vue";
-import Skills from "./Skills.vue";
+// import Skills from "./Skills.vue";
 import Projects from "./Projects.vue";
 import Contact from "./Contact.vue";
 
@@ -17,11 +17,11 @@ const navItems: NavItem[] = [
     link: "experience",
     component: Experience
   },
-  {
-    label: "Skills",
-    link: "skills",
-    component: Skills
-  },
+  // {
+  //   label: "Skills",
+  //   link: "skills",
+  //   component: Skills
+  // },
   {
     label: "Projects",
     link: "projects",

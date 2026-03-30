@@ -36,7 +36,7 @@
     <div id="about" class="absolute -top-20" />
     <header class="space-y-1">
       <h1>Ritam Chakraborty</h1>
-      <h2>Data Science @ UC Berkeley</h2>
+      <h2>Computer Science @ UC Berkeley</h2>
     </header>
     <div class="flex text-2xl gap-4">
       <a
@@ -49,14 +49,14 @@
     </div>
     <!-- <p v-text="aboutMe" class="text-base md:text-lg lg:text-xl" /> -->
     <p class="text-base md:text-lg lg:text-xl">
-      I'm a full-stack engineer who creates elegant solutions to complex problems. From fine-tuning LLMs for AI agents to building real-time collaborative platforms, I specialize in bridging software and machine learning with intuitive and powerful user experiences.
+      I'm an engineer who gravitates toward backend systems, quantitative problems, and the infrastructure in between. I enjoy building data-intensive applications that demand both mathematical rigor and thoughtful system design.
     </p>
     <button class="flex items-center gap-1 px-3 py-2 rounded text-base md:text-lg lg:text-xl hoverable-div" @click="openResume">
       <p>Resume</p>
       <span class="pi pi-file-pdf" />
     </button>
     <transition name="fade" appear>
-      <ul v-if="!isInitialLoad" class="hidden lg:grid grid-cols-2 gap-2 text-2xl slide-list">
+      <ul v-if="!isInitialLoad" class="hidden lg:grid grid-cols-1 gap-2 text-2xl slide-list">
         <li
           v-for="(item) in navItems"
           :key="item.link"

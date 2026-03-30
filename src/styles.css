@@ -58,7 +58,7 @@ html {
   
 @layer components {
   .card-bg {
-    @apply bg-gradient-to-bl from-bg via-muted to-bg;
+    @apply bg-muted border-2 border-border;
   }
 
   .hoverable {

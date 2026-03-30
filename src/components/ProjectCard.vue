@@ -9,7 +9,7 @@
 </script>
 
 <template>
-  <div class="group card-bg p-4 space-y-2 rounded-lg border-2 border-border">
+  <div class="group card-bg p-4 space-y-2 rounded-lg">
     <div class="flex items-center gap-4 h-fit">
       <img 
         :src="`/projects/${imgFile}`"
@@ -28,10 +28,10 @@
         {{ tool }}
       </div>
     </div>
-    <div>
-      <a :href="link" class="group hoverable">
-        <i class="pi pi-github"/>
-        View Repository
+    <div class="">
+      <a :href="link" class="group hoverable" target="_blank">
+        View Project
+        <i class="ml-1 pi pi-external-link" />
       </a>
     </div>
   </div>

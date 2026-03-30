@@ -14,7 +14,7 @@ defineProps<{
 </script>
 
 <template>
-  <div class="card-bg p-4 rounded-lg space-y-4 border-2 border-border">
+  <div class="card-bg p-4 rounded-lg space-y-4">
     <div class="flex items-center h-fit gap-4">
       <img
         :src="`/experiences/${imgFile}`"

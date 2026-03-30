@@ -1,23 +1,5 @@
 [
   {
-    "company": "SomeIdea AI",
-    "imgFile": "siai.jpg",
-    "roles": [
-      {
-        "title": "Software Engineering Intern",
-        "startDate": "Mar 2025",
-        "endDate": "Aug 2025",
-        "description": "Worked on building agentic workflows to streamline the process of writing equity research reports and understanding financial documents. Built user interfaces and managing database systems."
-      },
-      {
-        "title": "Founding Engineer",
-        "startDate": "Aug 2025",
-        "endDate": "Present",
-        "description": "More info coming soon..."
-      }
-    ]
-  },
-  {
     "company": "Berkeleytime",
     "imgFile": "berkeleytime.jpg",
     "roles": [
@@ -25,7 +7,31 @@
         "title": "Backend Developer",
         "startDate": "Sep 2025",
         "endDate": "Present",
-        "description": "Building features for the Berkeleytime web application, Berkeley's premier course planning website serving over 10,000 students. Learned how to use GraphQL for creating APIs and TypeScript for backend development."
+        "description": "Leading a backend team building features for UC Berkeley's course discovery platform. Working on notification systems, user analytics, and tools that help students make better enrollment decisions."
+      }
+    ]
+  },
+  {
+    "company": "Impact Observatory",
+    "imgFile": "io.jpg",
+    "roles": [
+      {
+        "title": "Full Stack Engineering Lead",
+        "startDate": "Feb 2026",
+        "endDate": "Present",
+        "description": "Managing a team building a geospatial analytics platform. Working on the whole stack, with a focus on integrating LLM-powered tools that help users query and interact with spatial data."
+      }
+    ]
+  },
+  {
+    "company": "SomeIdea AI",
+    "imgFile": "siai.jpg",
+    "roles": [
+      {
+        "title": "Software Engineering Intern",
+        "startDate": "Mar 2025",
+        "endDate": "Dec 2025",
+        "description": "Worked on research automation tools for investment professionals. Built a platform that helps analysts digest large volumes of financial documents."
       }
     ]
   },
@@ -37,19 +43,7 @@
         "title": "Machine Learning Consultant",
         "startDate": "Jan 2025",
         "endDate": "May 2025",
-        "description": "Developed synthetic data generation and validation pipelines. Used generated data to fine tune a Large Language Model for entity extraction. Automated processes for model selection and hyperparameter tuning."
-      }
-    ]
-  },
-  {
-    "company": "UpUnikSelf",
-    "imgFile": "upunikself.jpg",
-    "roles": [
-      {
-        "title": "Frontend Developer Intern",
-        "startDate": "Jan 2025",
-        "endDate": "Mar 2025",
-        "description": "Created interactive components and layouts using React.js with Next.js. Optimized data latency and API calling times through dynamic rendering and efficient data querying. Designed layouts for 30+ pages."
+        "description": "Consulted on machine learning evaluation and data quality. Built benchmarking tools to compare language models and generated synthetic training data to improve model performance."
       }
     ]
   }
