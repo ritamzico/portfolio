@@ -13,7 +13,7 @@
 
   const socialMediaItems: SocialMedia[] = [
     {
-      link: 'https://github.com/ritam2006',
+      link: 'https://github.com/ritamzico',
       icon: 'pi-github'
     },
     {

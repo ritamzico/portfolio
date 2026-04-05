@@ -23,7 +23,7 @@
   {
     "title": "Uno",
     "description": "Recreated Uno in Java with a graphical user interface. The application supports local multiplayer using Java sockets and has custom animations.",
-    "link": "https://github.com/ritam2006/Uno",
+    "link": "https://github.com/ritamzico/Uno",
     "tools": ["Java"],
     "imgLink": "uno.jpg"
   }
