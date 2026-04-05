@@ -36,7 +36,7 @@
     <div id="about" class="absolute -top-20" />
     <header class="space-y-1">
       <h1>Ritam Chakraborty</h1>
-      <h2>Computer Science @ UC Berkeley</h2>
+      <h2>Data Science @ UC Berkeley</h2>
     </header>
     <div class="flex text-2xl gap-4">
       <a
