@@ -1,13 +1,25 @@
 [
   {
+    "company": "Capital One",
+    "imgFile": "capitalone.jpg",
+    "roles": [
+      {
+        "title": "Software Engineering Intern",
+        "startDate": "Jun 2026",
+        "endDate": "Present",
+        "description": "Building automated recovery systems for payment processing pipelines that detect failures and self-heal, cutting down on manual on-call work and keeping transactions reliable at scale."
+      }
+    ]
+  },
+  {
     "company": "Berkeleytime",
     "imgFile": "berkeleytime.jpg",
     "roles": [
       {
-        "title": "Backend Developer",
+        "title": "Monetization & Analytics Lead",
         "startDate": "Sep 2025",
         "endDate": "Present",
-        "description": "Leading a backend team building features for UC Berkeley's course discovery platform. Working on notification systems, user analytics, and tools that help students make better enrollment decisions."
+        "description": "Leading a team of engineers building features for UC Berkeley's course discovery platform. Working on notification systems, user analytics, and tools that help students make better enrollment decisions."
       }
     ]
   },
@@ -18,8 +30,8 @@
       {
         "title": "Full Stack Engineering Lead",
         "startDate": "Feb 2026",
-        "endDate": "Present",
-        "description": "Managing a team building a geospatial analytics platform. Working on the whole stack, with a focus on integrating LLM-powered tools that help users query and interact with spatial data."
+        "endDate": "Apr 2026",
+        "description": "Managed a team building a geospatial analytics platform. Worked on the whole stack, with a focus on integrating LLM-powered tools that help users query and interact with spatial data."
       }
     ]
   },
@@ -32,18 +44,6 @@
         "startDate": "Mar 2025",
         "endDate": "Dec 2025",
         "description": "Worked on research automation tools for investment professionals. Built a platform that helps analysts digest large volumes of financial documents."
-      }
-    ]
-  },
-  {
-    "company": "Balnce AI",
-    "imgFile": "balnceai.jpg",
-    "roles": [
-      {
-        "title": "Machine Learning Consultant",
-        "startDate": "Jan 2025",
-        "endDate": "May 2025",
-        "description": "Consulted on machine learning evaluation and data quality. Built benchmarking tools to compare language models and generated synthetic training data to improve model performance."
       }
     ]
   }

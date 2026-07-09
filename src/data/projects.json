@@ -1,30 +1,37 @@
 [
-  {
-    "title": "pgraph",
-    "description": "Created a probabilistic graph inference engine in Go that models directed graphs with independent Bernoulli edge probabilities, enabling exact and sampled reachability analysis and probabilistic path queries for risk and reliability use cases.",
-    "link": "https://pgraph.ritamchakraborty.com/",
-    "tools": ["Go", "Docker"],
-    "imgLink": "pgraph.jpg"
-  },
-  {
-    "title": "Portfolio Management Risk Estimator",
-    "description": "Built a full-stack application that simulates portfolio performance and assesses risk exposure. Tracks and updates market data for the top 50 companies in the S&P 500.",
-    "link": "https://pmr.ritamchakraborty.com/",
-    "tools": ["Java", "Spring", "SQL", "PostgreSQL", "Typescript", "React.js", "Next.js"],
-    "imgLink": "pmr.jpg"
-  },
-  {
-    "title": "AI-Powered Lease Negotiation Platform",
-    "description": "Designed and built reLease, a collaborative lease negotiation tool powered by generative AI, to make housing contracts more transparent and tenant-friendly. Built during UC Berkeley AI Hackathon 2025.",
-    "link": "https://ai-hackathon-2025-pi.vercel.app/",
-    "tools": ["Typescript", "Node.js", "Supabase", "React.js", "Next.js"],
-    "imgLink": "reLease.jpg"
-  },
-  {
-    "title": "Uno",
-    "description": "Recreated Uno in Java with a graphical user interface. The application supports local multiplayer using Java sockets and has custom animations.",
-    "link": "https://github.com/ritamzico/Uno",
-    "tools": ["Java"],
-    "imgLink": "uno.jpg"
-  }
+    {
+        "title": "vigil",
+        "description": "Built a Rust log analytics engine backed by an async Tokio daemon that ingests JSON event streams and serves sub-millisecond filtering and aggregation to concurrent clients, with a checksummed write-ahead log for fast crash recovery.",
+        "link": "https://github.com/ritamzico/vigil",
+        "tools": [
+            "Rust",
+            "Tokio"
+        ],
+        "imgLink": "vigil.jpg"
+    },
+    {
+        "title": "pgraph",
+        "description": "Created a probabilistic graph inference engine in Go that models directed graphs with independent Bernoulli edge probabilities, enabling exact and sampled reachability analysis and probabilistic path queries for risk and reliability use cases.",
+        "link": "https://pgraph.ritamchakraborty.com/",
+        "tools": [
+            "Go",
+            "Docker"
+        ],
+        "imgLink": "pgraph.jpg"
+    },
+    {
+        "title": "Portfolio Management Risk Estimator",
+        "description": "Built a full-stack application that simulates portfolio performance and assesses risk exposure. Tracks and updates market data for the top 50 companies in the S&P 500.",
+        "link": "https://pmr.ritamchakraborty.com/",
+        "tools": [
+            "Java",
+            "Spring",
+            "SQL",
+            "PostgreSQL",
+            "Typescript",
+            "React.js",
+            "Next.js"
+        ],
+        "imgLink": "pmr.jpg"
+    }
 ]
