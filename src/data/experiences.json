@@ -6,8 +6,8 @@
       {
         "title": "Software Engineering Intern",
         "startDate": "Jun 2026",
-        "endDate": "Present",
-        "description": "Building automated recovery systems for payment processing pipelines that detect failures and self-heal, cutting down on manual on-call work and keeping transactions reliable at scale."
+        "endDate": "Aug 2026",
+        "description": "Built automated recovery systems for payment processing pipelines that detect failures and self-heal, cutting down on manual on-call work and keeping transactions reliable at scale."
       }
     ]
   },
@@ -16,8 +16,14 @@
     "imgFile": "berkeleytime.jpg",
     "roles": [
       {
-        "title": "Monetization & Analytics Lead",
+        "title": "Backend Developer",
         "startDate": "Sep 2025",
+        "endDate": "Dec 2025",
+        "description": "Built backend features for UC Berkeley's course discovery platform, including notification systems and user analytics."
+      },
+      {
+        "title": "Technical Lead",
+        "startDate": "Dec 2025",
         "endDate": "Present",
         "description": "Leading a team of engineers building features for UC Berkeley's course discovery platform. Working on notification systems, user analytics, and tools that help students make better enrollment decisions."
       }

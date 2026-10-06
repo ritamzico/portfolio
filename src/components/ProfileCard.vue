@@ -21,7 +21,7 @@
       icon: 'pi-linkedin'
     },
     {
-      link: 'https://www.instagram.com/ritamz.ico/',
+      link: 'https://www.instagram.com/ritamzico/',
       icon: 'pi-instagram'
     }
   ];
